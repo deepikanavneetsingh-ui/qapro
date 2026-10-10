@@ -1,0 +1,7 @@
+{
+  "name": "QAPro Academy",
+  "description": "Comprehensive QA training, audit simulation, domain specializations, AI coaching, and certification platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
